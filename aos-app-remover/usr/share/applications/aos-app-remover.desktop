@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=ArchiveOS app remover
+Exec=/usr/bin/aos-app-remover.py
+Icon=/usr/share/icons/aos-app-remover.png
+Type=Application
+Categories=Utility;
